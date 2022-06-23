@@ -1,0 +1,15 @@
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\bin\Debug\net6.0\EditTexts.exe
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\bin\Debug\net6.0\EditTexts.deps.json
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\bin\Debug\net6.0\EditTexts.runtimeconfig.json
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\bin\Debug\net6.0\EditTexts.dll
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\bin\Debug\net6.0\EditTexts.pdb
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\EditTexts.csproj.AssemblyReference.cache
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\EditTexts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\EditTexts.AssemblyInfoInputs.cache
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\EditTexts.AssemblyInfo.cs
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\EditTexts.csproj.CoreCompileInputs.cache
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\EditTexts.dll
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\refint\EditTexts.dll
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\EditTexts.pdb
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\EditTexts.genruntimeconfig.cache
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditTexts\obj\Debug\net6.0\ref\EditTexts.dll
